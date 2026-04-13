@@ -36,10 +36,50 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,mysql,mongodb,tensorflow,opencv,git,github" />
+
+<!-- Programming -->
+
+<img src="https://skillicons.dev/icons?i=python,java,c" /><br/>
+
+<!-- Web & Backend -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /><br/>
+
+<!-- Databases -->
+
+<img src="https://skillicons.dev/icons?i=postgresql" /><br/>
+
+<!-- Tools -->
+
+<img src="https://skillicons.dev/icons?i=github,vscode,firebase" />
+
 </p>
 
 ---
+
+### 🤖 AI / Data Science
+
+* Machine Learning
+* Deep Learning
+* Data Science
+* Natural Language Processing (NLP)
+
+---
+
+### ⚙️ Backend & Frameworks
+
+* Spring Boot
+* JDBC
+* Express.js
+
+---
+
+### 📊 Data & Visualization Tools
+
+* Tableau
+* Power BI
+* MATLAB
+
 
 ## 📊 Coding Profiles
 
