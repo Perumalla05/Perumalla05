@@ -181,7 +181,7 @@
 ## ⚡ Motto
 
 <p align="center">
-<b>"I don’t just learn technology — I build impactful solutions with it."</b>
+<b>"Driven by curiosity, powered by data, focused on impact."</b>
 </p>
 
 ---
